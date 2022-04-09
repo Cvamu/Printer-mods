@@ -1,2 +1,2 @@
 # Printer-mods
-Mods for various 3D printers
+This repo includes mods for various 3D printers
